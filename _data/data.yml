@@ -72,7 +72,7 @@ education:
         - Thesis Title: Energy-Efficient Hardware Architectures for Enhanced Secure Communication Systems
         - Advisor: Prof. Muriel Médard
         - Minor: Machine Learning & Artificial Intelligence
-        - Achievements: Led groundbreaking research in hardware synthesis of AES for error correction, significantly enhancing IoT system reliability and efficiency. Developed the first hardware implementation of the Hybrid Universal Network-Coding Cryptosystem (HUNCC), achieving substantial reductions in energy consumption and circuit area.
+        #- Achievements: Led groundbreaking research in hardware synthesis of AES for error correction, significantly enhancing IoT system reliability and efficiency. Developed the first hardware implementation of the Hybrid Universal Network-Coding Cryptosystem (HUNCC), achieving substantial reductions in energy consumption and circuit area.
         
     - degree: M.S. in Electrical Engineering & Computer Science
       university: Massachusetts Institute of Technology (MIT)
@@ -81,7 +81,7 @@ education:
         Master's thesis focused on addressing physical security challenges in wireless communication through the innovative use of Orbital Angular Momentum (OAM) waves, under the guidance of Prof. Anantha P. Chandrakasan and Prof. Rabia T. Yazicigil.
         - Thesis Title: Physical-Security for Wireless with Orbital Angular Momentum Wave
         - Advisor: Prof. Anantha P. Chandrakasan, Prof. Rabia T. Yazicigil (Boston University)
-        - Contributions: Pioneered research on leveraging OAM waves for enhancing physical-layer security in wireless communication systems. This work has implications for secure data transmission and defense against eavesdropping and signal tampering.
+        #- Contributions: Pioneered research on leveraging OAM waves for enhancing physical-layer security in wireless communication systems. This work has implications for secure data transmission and defense against eavesdropping and signal tampering.
 
     - degree: B.S. in Electrical Engineering
       university: Korea Advanced Institute of Science and Technology (KAIST)
@@ -122,9 +122,9 @@ projects:
       setting new standards in secure and efficient cryptographic hardware design."
 
     - title: FPGA Integration of HUNCC with AES
-      link: "#"
+      link: "https://drive.google.com/file/d/1AirNXH2J8O74vJmSgGPLbPLGJSnBaKl-/view"
       tagline: "Implemented the integration of HUNCC with AES error correction on FPGA, enhancing secure and reliable communication while highlighting the system's flexibility in coding scheme selection. 
-      Demonstrated with a MATLAB GUI for clear end-to-end system visualization, this approach significantly boosts system reliability and maintains the efficiency standards set by CERMET in terms of energy and space usage.[Demo Video](https://drive.google.com/file/d/1AirNXH2J8O74vJmSgGPLbPLGJSnBaKl-/view)"
+      Demonstrated with a MATLAB GUI for clear end-to-end system visualization, this approach significantly boosts system reliability and maintains the efficiency standards set by CERMET in terms of energy and space usage."
 
     - title: Security Analysis of OAM Modulation in THz Systems
       link: "https://ieeexplore.ieee.org/document/9919249"
