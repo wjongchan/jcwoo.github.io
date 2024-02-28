@@ -93,19 +93,13 @@ education:
 
 
 experiences:
-    title: Experiences
-    info:
-      - role: Graduate Researcher
-        time: 2018 - Present
-        company: Massachusetts Institute of Technology (MIT)
-        details: |
-          As a Graduate Researcher at MIT, I have been deeply involved in advancing the field of electrical engineering with a focus on hardware circuits and hardware security in communication. My work has centered around developing innovative solutions to enhance the efficiency and security of communication systems. Highlights of my research include:
-            - Leading the hardware synthesis of AES for error correction, significantly improving IoT system reliability.
-            - Designing and synthesizing the first hardware implementation of the Hybrid Universal Network-Coding Cryptosystem (HUNCC), setting new benchmarks for cryptographic hardware efficiency.
-            - Implementing a novel approach for secure THz communication using Orbital Angular Momentum (OAM) modulation.
-          This role has allowed me to contribute to the academic community through publications in esteemed journals and presentations at international conferences, marking a significant impact in the realms of digital circuit design and secure communication technologies.
-
-
+  title: Experiences
+  info:
+    - role: Graduate Researcher
+      time: 2018 - Present
+      company: Massachusetts Institute of Technology
+      details: |
+        As a Graduate Researcher at MIT, I have dedicated my research to advancing the field of electrical engineering, with a particular focus on hardware circuits and hardware security in communication. My work involves developing innovative solutions to enhance the efficiency and security of hardware systems, leveraging my expertise in digital circuit design and analysis. Throughout my tenure, I have contributed to several pioneering projects and published numerous papers that reflect my commitment to pushing the boundaries of technology and knowledge in my field.
 
 projects:
   title: Projects
