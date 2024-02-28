@@ -196,6 +196,22 @@ publications:
         conference: "2020 IEEE Asian Solid-State Circuits Conference (A-SSCC), Hiroshima, Japan, 2020"
 
 
+skills_mine:
+    title: Skills &amp; Proficiency
+    intro: >
+      You can list your open source software contributions in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    contributions:
+      - title: Programming Languages
+        link: "#"
+        tagline: "Verilog, System Verilog, Bluespec System Verilog (BSV), MATLAB, Python, C, C++"
+
+      - title: Software
+        link: "#"
+        tagline: "Hardware Design Tools (Cadence, Synopsys), FPGA Tools (Xilinx Vivado)"
+
+
 skills:
     title: Skills &amp; Proficiency
 
