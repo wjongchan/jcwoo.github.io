@@ -227,6 +227,16 @@ leadership_service:
             - Volunteered as an event planning member for MIT KGSA, coordinating key community events including a welcoming reception for new graduate students and the MIT-Harvard GALA.
             - Organized regular coffee hours and other engagement activities, fostering connectivity and camaraderie among MIT's Korean graduate student community.
 
+awards:
+      title: Awards
+      list:
+        - name: Kwanjeong Educational Foundation Scholarship 
+          start: 2018
+          end: 2022
+          organization: Kwanjeong Educational Foundation
+          details: |
+            - Awarded for outstanding academic achievement as one of the select Ph.D. students across the country in 2018.
+
 #skills:
 #    title: Skills &amp; Proficiency
 
