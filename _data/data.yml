@@ -97,19 +97,14 @@ experiences:
     info:
       - role: Graduate Researcher
         time: 2018 - Present
-        company: Massachusetts Institute of Technology
+        company: Massachusetts Institute of Technology (MIT)
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+          As a Graduate Researcher at MIT, I have been deeply involved in advancing the field of electrical engineering with a focus on hardware circuits and hardware security in communication. My work has centered around developing innovative solutions to enhance the efficiency and security of communication systems. Highlights of my research include:
+            - Leading the hardware synthesis of AES for error correction, significantly improving IoT system reliability.
+            - Designing and synthesizing the first hardware implementation of the Hybrid Universal Network-Coding Cryptosystem (HUNCC), setting new benchmarks for cryptographic hardware efficiency.
+            - Implementing a novel approach for secure THz communication using Orbital Angular Momentum (OAM) modulation.
+          This role has allowed me to contribute to the academic community through publications in esteemed journals and presentations at international conferences, marking a significant impact in the realms of digital circuit design and secure communication technologies.
+
 
 
 projects:
@@ -198,10 +193,10 @@ publications:
 
 skills_mine:
     title: Skills &amp; Proficiency
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    #intro: >
+    #  You can list your open source software contributions in this
+    #  section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    #  Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     contributions:
       - title: Programming Languages
         link: "#"
