@@ -125,6 +125,8 @@ projects:
       link: "https://drive.google.com/file/d/1AirNXH2J8O74vJmSgGPLbPLGJSnBaKl-/view"
       tagline: "Implemented the integration of HUNCC with AES error correction on FPGA, enhancing secure and reliable communication while highlighting the system's flexibility in coding scheme selection. 
       Demonstrated with a MATLAB GUI for clear end-to-end system visualization, this approach significantly boosts system reliability and maintains the efficiency standards set by CERMET in terms of energy and space usage."
+      demo: "[Demo link]"
+      demo_link: "https://drive.google.com/file/d/1AirNXH2J8O74vJmSgGPLbPLGJSnBaKl-/view"
 
     - title: Security Analysis of OAM Modulation in THz Systems
       link: "https://ieeexplore.ieee.org/document/9919249"
