@@ -51,35 +51,36 @@ sidebar:
 #       - item: Cooking
 #          link:
 
-career-profile:
-    title: Career Profile
-    summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+careerProfile:
+  title: Career Profile
+  summary: |
+    Innovative Digital Circuit Designer and Ph.D. candidate at MIT, specializing in energy-efficient hardware solutions and secure communication systems. 
+    Brings a robust foundation in electrical engineering, complemented by advanced skills in hardware architecture and system optimization. 
+    Expertise spans the complete lifecycle of digital circuit design, from conceptualization to implementation, with a keen focus on developing architectures that enhance energy efficiency and security. 
+    Holds a minor in Machine Learning & Artificial Intelligence, integrating cutting-edge AI techniques to improve hardware performance and security measures. 
+    Demonstrated ability in leading research initiatives that push the boundaries of hardware design, contributing to more secure, reliable, and efficient communication technologies. 
+    Adept at collaborating across disciplines to drive innovation and solve complex challenges in hardware security and energy optimization.
+
 education:
   title: Education
   info:
     - degree: Ph.D. Candidate in Electrical Engineering & Computer Science
       university: Massachusetts Institute of Technology (MIT)
-      advisor: Muriel Médard
       time: Expected 2024
       details: |
         Focused on the development of energy-efficient hardware architectures for enhanced secure communication systems. Thesis explores innovative design and optimization strategies for secure, reliable communication in IoT and beyond, under the guidance of Muriel Médard.
         - Thesis Title: Energy-Efficient Hardware Architectures for Enhanced Secure Communication Systems
+        - advisor: Muriel Médard
         - Minor: Machine Learning & Artificial Intelligence
         - Achievements: Led groundbreaking research in hardware synthesis of AES for error correction, significantly enhancing IoT system reliability and efficiency. Developed the first hardware implementation of the Hybrid Universal Network-Coding Cryptosystem (HUNCC), achieving substantial reductions in energy consumption and circuit area.
         
     - degree: M.S. in Electrical Engineering & Computer Science
       university: Massachusetts Institute of Technology (MIT)
-      advisor: Anantha P. Chandrakasan, Rabia T. Yazicigil (Boston University)
       time: 2018 - 2021
       details: |
         Master's thesis focused on addressing physical security challenges in wireless communication through the innovative use of Orbital Angular Momentum (OAM) waves, under the guidance of Anantha P. Chandrakasan and Rabia T. Yazicigil.
         - Thesis Title: Physical-Security for Wireless with Orbital Angular Momentum Wave
+        - advisor: Anantha P. Chandrakasan, Rabia T. Yazicigil (Boston University)
         - Contributions: Pioneered research on leveraging OAM waves for enhancing physical-layer security in wireless communication systems. This work has implications for secure data transmission and defense against eavesdropping and signal tampering.
 
     - degree: B.S. in Electrical Engineering
