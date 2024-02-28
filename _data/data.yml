@@ -51,8 +51,8 @@ sidebar:
 #       - item: Cooking
 #          link:
 
-careerProfile:
-  title: Career Profile
+career-profile:
+  title: Profile
   summary: |
     Innovative Digital Circuit Designer and Ph.D. candidate at MIT, specializing in energy-efficient hardware solutions and secure communication systems. 
     Brings a robust foundation in electrical engineering, complemented by advanced skills in hardware architecture and system optimization. 
@@ -175,31 +175,42 @@ certifications:
             Praesent venenatis erat non augue suscipit consectetur.
 
 projects:
-    title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+  title: Projects
+  intro: >
+    Below are highlights of my key projects that showcase my expertise in digital circuit design, hardware security, and the integration of machine learning and AI for innovative solutions in secure communication systems. These projects reflect my commitment to advancing the field of electrical engineering and my ability to tackle complex challenges with novel approaches.
+  assignments:
+    - title: Dual-Functional AES for Enhanced IoT Security and Reliability
+      link: ""
+      tagline: "Pioneered a novel application of AES by integrating error correction into encryption padding bits, 
+      effectively merging security with error resilience. Utilizing the Guessing Random Additive Noise Decoder (GRAND) for joint decoding and decryption, 
+      our approach significantly improves IoT communication reliability in noisy environments—achieving over 3 dB gain in Block Error Rate (BLER) with minimal power overhead. 
+      This dual-functional method marks a strategic advancement in IoT system design, offering a seamless, 
+      efficient solution for achieving both encryption and error correction without compromising on energy efficiency or system performance."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+    - title: CERMET: An Energy-Efficient Cryptosystem Architecture
+      link: "https://arxiv.org/abs/2308.05063"
+      tagline: "Introduced CERMET, an innovative hardware architecture for energy-efficient cryptosystems, leveraging network coding for enhanced security and performance. 
+      Demonstrated significant energy reductions and area optimization for AES-256 and ECC-based systems, 
+      achieving groundbreaking efficiency with less than 1 pJ/bit for AES and remarkable area and energy savings for ECC, 
+      setting new standards in secure and efficient cryptographic hardware design."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+    - title: FPGA Integration of HUNCC with AES
+      link: ""
+      tagline: "Implemented the integration of HUNCC with AES error correction on FPGA, enhancing secure and reliable communication while highlighting the system's flexibility in coding scheme selection. 
+      Demonstrated with a MATLAB GUI for clear end-to-end system visualization, this approach significantly boosts system reliability and maintains the efficiency standards set by CERMET in terms of energy and space usage."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+    - title: Security Analysis of OAM Modulation in THz Systems
+      link: "https://ieeexplore.ieee.org/document/9919249"
+      tagline: "Developed a groundbreaking secure wireless communication system at 0.31 THz using OAM waves. 
+      Introduced a reliable key distribution method for symmetric cryptography by leveraging orthogonal OAM wave modes and phases with dynamic hopping. 
+      Implemented a Keccak-f[400] based pseudorandom number generator to ensure the randomness of OAM-wave mode phase distribution, significantly bolstering the system's security. 
+      Conducted a comprehensive evaluation of the system's vulnerability to security threats at the physical layer, considering a range of attack models and attacker complexities. 
+      This work not only advances the physical security of THz communication systems but also establishes a novel approach for secure key distribution in high-frequency wireless networks."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    - title: FPGA-based AES Cryptographic Processor for OAM Systems
+      link: "https://ieeexplore.ieee.org/document/9690578"
+      tagline: "Pioneered a unique one-way key exchanging protocol using orbital angular momentum (OAM) wave for heightened physical security in private-key cryptography; 
+      led to the creation and FPGA-based testing of an AES algorithm-backed cryptographic processor."
 
 oss:
     title: OSS Contributions
