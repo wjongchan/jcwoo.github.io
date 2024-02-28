@@ -234,24 +234,48 @@ oss:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      Below is a list of my publications, showcasing my research contributions across various aspects of electrical engineering, hardware circuits, and hardware security in communication. These works highlight my commitment to advancing the field through innovative research and development.
     papers:
-      - title: The Art of Computer Programming
+      - title: "Leveraging AES Padding: dBs for Nothing and FEC for Free in IoT Systems"
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        authors: J. Woo, et al.
+        conference: "Submitted to IEEE Internet of Things Journal, 2024"
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      - title: "CERMET: Coding for Energy Reduction with Multiple Encryption Techniques - It's easy being green"
         link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+        authors: J. Woo, et al.
+        conference: "Submitted to IEEE Transactions on Network and Service Management, 2024"
 
-      - title: A syntax directed compiler for Algol 60
+      - title: "CRYPTO-MINE: Cryptanalysis via Mutual Information Neural Estimation"
         link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        authors: B. D. Kim, V. A. Vasaudevan, J. Woo, et al.
+        conference: "ICASSP 2023 - IEEE International Conference on Acoustics, Speech and Signal Processing, Seoul, Korea, 2024"
+
+      - title: "AES as Error Correction: Cryptosystems for Reliable Communication"
+        link: "#"
+        authors: A. Cohen, R. G. L. D’Oliveira, K. R. Duffy, J. Woo, et al.
+        conference: "IEEE Communications Letters, Vol. 27, No. 8, pp. 1964-1968, Aug. 2023"
+
+      - title: "Physical-Layer Security for THz Communications via Orbital Angular Momentum Waves"
+        link: "#"
+        authors: J. Woo, et al.
+        conference: "2022 IEEE Workshop on Signal Processing Systems (SiPS), Rennes, France, 2022"
+
+      - title: "A 0.31-THz Orbital-Angular-Momentum (OAM) Wave Transceiver in CMOS With Bits-to-OAM Mode Mapping"
+        link: "#"
+        authors: M. I. W. Khan, J. Woo, et al.
+        conference: "IEEE Journal of Solid-State Circuits, Vol. 57, No. 5, pp. 1344-1357, May 2022"
+
+      - title: "A 0.31THz CMOS Uniform Circular Antenna Array Enabling Generation/Detection of Waves with Orbital-Angular Momentum"
+        link: "#"
+        authors: M. I. W. Khan, J. Woo, et al.
+        conference: "2021 IEEE Radio Frequency Integrated Circuits Symposium (RFIC), Atlanta, GA, USA, 2021"
+
+      - title: "CompAcc: Efficient Hardware Realization for Processing Compressed Neural Networks Using Accumulator Arrays"
+        link: "#"
+        authors: Z. Ji, W. Jung, J. Woo, et al.
+        conference: "2020 IEEE Asian Solid-State Circuits Conference (A-SSCC), Hiroshima, Japan, 2020"
+
 
 skills:
     title: Skills &amp; Proficiency
