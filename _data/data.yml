@@ -180,7 +180,7 @@ projects:
     Below are highlights of my key projects that showcase my expertise in digital circuit design, hardware security, and the integration of machine learning and AI for innovative solutions in secure communication systems. These projects reflect my commitment to advancing the field of electrical engineering and my ability to tackle complex challenges with novel approaches.
   assignments:
     - title: Dual-Functional AES for Enhanced IoT Security and Reliability
-      link: ""
+      link: "#"
       tagline: "Pioneered a novel application of AES by integrating error correction into encryption padding bits, 
       effectively merging security with error resilience. Utilizing the Guessing Random Additive Noise Decoder (GRAND) for joint decoding and decryption, 
       our approach significantly improves IoT communication reliability in noisy environments—achieving over 3 dB gain in Block Error Rate (BLER) with minimal power overhead. 
@@ -195,7 +195,7 @@ projects:
       setting new standards in secure and efficient cryptographic hardware design."
 
     - title: FPGA Integration of HUNCC with AES
-      link: ""
+      link: "#"
       tagline: "Implemented the integration of HUNCC with AES error correction on FPGA, enhancing secure and reliable communication while highlighting the system's flexibility in coding scheme selection. 
       Demonstrated with a MATLAB GUI for clear end-to-end system visualization, this approach significantly boosts system reliability and maintains the efficiency standards set by CERMET in terms of energy and space usage."
 
@@ -212,25 +212,6 @@ projects:
       tagline: "Pioneered a unique one-way key exchanging protocol using orbital angular momentum (OAM) wave for heightened physical security in private-key cryptography; 
       led to the creation and FPGA-based testing of an AES algorithm-backed cryptographic processor."
 
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
 publications:
     title: Publications
     intro: |
@@ -238,42 +219,42 @@ publications:
     papers:
       - title: "Leveraging AES Padding: dBs for Nothing and FEC for Free in IoT Systems"
         link: "#"
-        authors: J. Woo, et al.
+        authors: Jongchan Woo, Vipindev Adat Vasudevan, Benjamin D. Kim, Rafael G. L. D’Oliveira, Alejandro Cohen, Thomas Stahlbuhk, Ken R. Duffy, Muriel Médard
         conference: "Submitted to IEEE Internet of Things Journal, 2024"
 
       - title: "CERMET: Coding for Energy Reduction with Multiple Encryption Techniques - It's easy being green"
-        link: "#"
-        authors: J. Woo, et al.
+        link: "https://arxiv.org/abs/2308.05063"
+        authors: Jongchan Woo, Vipindev Adat Vasudevan, Benjamin Kim, Alejandro Cohen, Rafael G. L. D'Oliveira, Thomas Stahlbuhk, Muriel Médard
         conference: "Submitted to IEEE Transactions on Network and Service Management, 2024"
 
       - title: "CRYPTO-MINE: Cryptanalysis via Mutual Information Neural Estimation"
-        link: "#"
-        authors: B. D. Kim, V. A. Vasaudevan, J. Woo, et al.
+        link: "https://arxiv.org/abs/2309.08019"
+        authors: Benjamin D. Kim, Vipindev Adat Vasudevan, Jongchan Woo, Alejandro Cohen, Rafael G. L. D'Oliveira, Thomas Stahlbuhk, Muriel Médard
         conference: "ICASSP 2023 - IEEE International Conference on Acoustics, Speech and Signal Processing, Seoul, Korea, 2024"
 
       - title: "AES as Error Correction: Cryptosystems for Reliable Communication"
-        link: "#"
+        link: "https://ieeexplore.ieee.org/document/10149008"
         authors: A. Cohen, R. G. L. D’Oliveira, K. R. Duffy, J. Woo, et al.
         conference: "IEEE Communications Letters, Vol. 27, No. 8, pp. 1964-1968, Aug. 2023"
 
       - title: "Physical-Layer Security for THz Communications via Orbital Angular Momentum Waves"
-        link: "#"
-        authors: J. Woo, et al.
+        link: "https://ieeexplore.ieee.org/document/9919249"
+        authors: Jongchan Woo, Muhammad Ibrahim Wasiq Khan, Mohamed I. Ibrahim, Ruonan Han, Anantha P. Chandrakasan, Rabia Tugce Yazicigil
         conference: "2022 IEEE Workshop on Signal Processing Systems (SiPS), Rennes, France, 2022"
 
       - title: "A 0.31-THz Orbital-Angular-Momentum (OAM) Wave Transceiver in CMOS With Bits-to-OAM Mode Mapping"
-        link: "#"
-        authors: M. I. W. Khan, J. Woo, et al.
+        link: "https://ieeexplore.ieee.org/document/9690578"
+        authors: Muhammad Ibrahim Wasiq Khan, Jongchan Woo, Xiang Yi, Mohamed I. Ibrahim, Rabia Tugce Yazicigil, Anantha P. Chandrakasan, Ruonan Han
         conference: "IEEE Journal of Solid-State Circuits, Vol. 57, No. 5, pp. 1344-1357, May 2022"
 
       - title: "A 0.31THz CMOS Uniform Circular Antenna Array Enabling Generation/Detection of Waves with Orbital-Angular Momentum"
-        link: "#"
-        authors: M. I. W. Khan, J. Woo, et al.
+        link: "https://ieeexplore.ieee.org/document/9490402"
+        authors:Muhammad Ibrahim Wasiq Khan, Jongchan Woo, Xiang Yi, Mohamed I. Ibrahim, Rabia Tugce Yazicigil, Anantha P. Chandrakasan, Ruonan Han
         conference: "2021 IEEE Radio Frequency Integrated Circuits Symposium (RFIC), Atlanta, GA, USA, 2021"
 
       - title: "CompAcc: Efficient Hardware Realization for Processing Compressed Neural Networks Using Accumulator Arrays"
-        link: "#"
-        authors: Z. Ji, W. Jung, J. Woo, et al.
+        link: "https://ieeexplore.ieee.org/document/9336148"
+        authors: Zexi Ji, Wanyeong Jung, Jongchan Woo, Khushal Sethi, Shih-Lien Lu, Anantha P. Chandrakasan
         conference: "2020 IEEE Asian Solid-State Circuits Conference (A-SSCC), Hiroshima, Japan, 2020"
 
 
