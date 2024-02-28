@@ -18,7 +18,7 @@ sidebar:
     timezone: Eastern Standard Time (EST)
     citizenship: Korean
     website: wjongchan.github.io #do not add http://
-    linkedin: https://www.linkedin.com/in/jongchan-woo-9017ba143/
+    linkedin: wjongchan
     xing: 
     github: 
     telegram: # add your nickname without '@' sign
@@ -34,25 +34,22 @@ sidebar:
       title: Languages
       info:
         - idiom: English
+          level: Fluent
+
+        - idiom: Korean
           level: Native
 
-        - idiom: French
-          level: Professional
+#    interests:
+#      title: Interests
+#      info:
+#        - item: Climbing
+#          link:
 
-        - idiom: Spanish
-          level: Professional
+#        - item: Snowboarding
+#          link:
 
-    interests:
-      title: Interests
-      info:
-        - item: Climbing
-          link:
-
-        - item: Snowboarding
-          link:
-
-        - item: Cooking
-          link:
+#       - item: Cooking
+#          link:
 
 career-profile:
     title: Career Profile
@@ -64,30 +61,35 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    title: Education
-    info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+  title: Education
+  info:
+    - degree: Ph.D. Candidate in Electrical Engineering & Computer Science
+      university: Massachusetts Institute of Technology (MIT)
+      advisor: Muriel Médard
+      time: Expected 2024
+      details: |
+        Focused on the development of energy-efficient hardware architectures for enhanced secure communication systems. Thesis explores innovative design and optimization strategies for secure, reliable communication in IoT and beyond, under the guidance of Muriel Médard.
+        - Thesis Title: Energy-Efficient Hardware Architectures for Enhanced Secure Communication Systems
+        - Minor: Machine Learning & Artificial Intelligence
+        - Achievements: Led groundbreaking research in hardware synthesis of AES for error correction, significantly enhancing IoT system reliability and efficiency. Developed the first hardware implementation of the Hybrid Universal Network-Coding Cryptosystem (HUNCC), achieving substantial reductions in energy consumption and circuit area.
+        
+    - degree: M.S. in Electrical Engineering & Computer Science
+      university: Massachusetts Institute of Technology (MIT)
+      advisor: Anantha P. Chandrakasan, Rabia T. Yazicigil (Boston University)
+      time: 2018 - 2021
+      details: |
+        Master's thesis focused on addressing physical security challenges in wireless communication through the innovative use of Orbital Angular Momentum (OAM) waves, under the guidance of Anantha P. Chandrakasan and Rabia T. Yazicigil.
+        - Thesis Title: Physical-Security for Wireless with Orbital Angular Momentum Wave
+        - Contributions: Pioneered research on leveraging OAM waves for enhancing physical-layer security in wireless communication systems. This work has implications for secure data transmission and defense against eavesdropping and signal tampering.
+
+    - degree: B.S. in Electrical Engineering
+      university: Korea Advanced Institute of Science and Technology (KAIST)
+      time: 2018
+      details: |
+        Graduated Summa Cum Laude with a focus on electrical engineering. Specialized in digital circuit design, contributing to a strong foundation in hardware engineering and security.
+        - GPA: Overall 4.09/4.3, Major 4.23/4.3
+        - Distinction: Summa Cum Laude
+
 
 experiences:
     title: Experiences
