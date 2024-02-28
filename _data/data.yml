@@ -187,7 +187,7 @@ projects:
       This dual-functional method marks a strategic advancement in IoT system design, offering a seamless, 
       efficient solution for achieving both encryption and error correction without compromising on energy efficiency or system performance."
 
-    - title: CERMET: An Energy-Efficient Cryptosystem Architecture
+    - title: An Energy-Efficient Cryptosystem Architecture
       link: "https://arxiv.org/abs/2308.05063"
       tagline: "Introduced CERMET, an innovative hardware architecture for energy-efficient cryptosystems, leveraging network coding for enhanced security and performance. 
       Demonstrated significant energy reductions and area optimization for AES-256 and ECC-based systems, 
