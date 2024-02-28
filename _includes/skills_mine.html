@@ -1,0 +1,40 @@
+{% assign skills_mine = site.data.data.skills_mine %}
+{% if skills_mine %}
+<section class="section skills_mine-section">
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-wrench fa-stack-1x fa-inverse"></i>
+    </span>
+    {{ skills_mine.title }}
+  </h2>
+
+  {% if skills_mine.intro %}
+  <div class="intro">
+    <p>{{ skills_mine.intro }}</p>
+  </div>
+  <!--//intro-->
+  {% endif %}
+
+  {% for contribution in skills_mine.contributions %}
+  <div class="item">
+
+    <span class="project-title">
+      {% if contribution.link %}
+      <a href="{{ contribution.link }}" target="_blank">{{ contribution.title }}</a>
+      {% else %}
+      {{ contribution.title }}
+      {% endif %}
+    </span>
+
+    {% if contribution.tagline %}
+    - <span class="project-tagline">{{ contribution.tagline }}</span>
+    {% endif %}
+
+  </div>
+  <!--//item-->
+  {% endfor %}
+
+</section>
+<!--//section-->
+{% endif %}
