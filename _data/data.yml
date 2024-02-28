@@ -68,9 +68,9 @@ education:
       university: Massachusetts Institute of Technology (MIT)
       time: Expected 2024
       details: |
-        Focused on the development of energy-efficient hardware architectures for enhanced secure communication systems. Thesis explores innovative design and optimization strategies for secure, reliable communication in IoT and beyond, under the guidance of Muriel Médard.
+        Focused on the development of energy-efficient hardware architectures for enhanced secure communication systems. Thesis explores innovative design and optimization strategies for secure, reliable communication in IoT and beyond, under the guidance of Prof. Muriel Médard.
         - Thesis Title: Energy-Efficient Hardware Architectures for Enhanced Secure Communication Systems
-        - Advisor: Muriel Médard
+        - Advisor: Prof. Muriel Médard
         - Minor: Machine Learning & Artificial Intelligence
         - Achievements: Led groundbreaking research in hardware synthesis of AES for error correction, significantly enhancing IoT system reliability and efficiency. Developed the first hardware implementation of the Hybrid Universal Network-Coding Cryptosystem (HUNCC), achieving substantial reductions in energy consumption and circuit area.
         
@@ -78,9 +78,9 @@ education:
       university: Massachusetts Institute of Technology (MIT)
       time: 2018 - 2021
       details: |
-        Master's thesis focused on addressing physical security challenges in wireless communication through the innovative use of Orbital Angular Momentum (OAM) waves, under the guidance of Anantha P. Chandrakasan and Rabia T. Yazicigil.
+        Master's thesis focused on addressing physical security challenges in wireless communication through the innovative use of Orbital Angular Momentum (OAM) waves, under the guidance of Prof. Anantha P. Chandrakasan and Prof. Rabia T. Yazicigil.
         - Thesis Title: Physical-Security for Wireless with Orbital Angular Momentum Wave
-        - Advisor: Anantha P. Chandrakasan, Rabia T. Yazicigil (Boston University)
+        - Advisor: Prof. Anantha P. Chandrakasan, Prof. Rabia T. Yazicigil (Boston University)
         - Contributions: Pioneered research on leveraging OAM waves for enhancing physical-layer security in wireless communication systems. This work has implications for secure data transmission and defense against eavesdropping and signal tampering.
 
     - degree: B.S. in Electrical Engineering
@@ -124,7 +124,7 @@ projects:
     - title: FPGA Integration of HUNCC with AES
       link: "#"
       tagline: "Implemented the integration of HUNCC with AES error correction on FPGA, enhancing secure and reliable communication while highlighting the system's flexibility in coding scheme selection. 
-      Demonstrated with a MATLAB GUI for clear end-to-end system visualization, this approach significantly boosts system reliability and maintains the efficiency standards set by CERMET in terms of energy and space usage."
+      Demonstrated with a MATLAB GUI for clear end-to-end system visualization, this approach significantly boosts system reliability and maintains the efficiency standards set by CERMET in terms of energy and space usage.[Demo Video](https://drive.google.com/file/d/1AirNXH2J8O74vJmSgGPLbPLGJSnBaKl-/view)"
 
     - title: Security Analysis of OAM Modulation in THz Systems
       link: "https://ieeexplore.ieee.org/document/9919249"
@@ -201,17 +201,14 @@ skills_mine:
         tagline: "Hardware Design Tools (Cadence, Synopsys), FPGA Tools (Xilinx Vivado)"
 
 
-skills:
-    title: Skills &amp; Proficiency
+#skills:
+#    title: Skills &amp; Proficiency
 
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+#    contributions:
+#     - title: Tempo
+#        link: "#"
+#        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
