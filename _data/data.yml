@@ -55,11 +55,12 @@ sidebar:
 career-profile:
   title: Profile
   summary: |
-    Ph.D. candidate at MIT with a focus on digital circuit design for energy-efficient hardware and secure communication systems. 
-    Expert in hardware architecture and system optimization, with a strong foundation in electrical engineering. 
-    Passionate about leveraging ML and AI to enhance hardware performance, particularly in developing ML accelerators. 
-    Proven track record of leading research that advances hardware design for improved security and efficiency. 
-    Skilled in interdisciplinary collaboration to address complex challenges in hardware security and energy optimization.
+        Ph.D. candidate at MIT focusing on digital circuit design for energy-efficient hardware and secure communication systems. 
+        Expert in hardware architecture and system optimization, grounded in a comprehensive understanding of digital circuits. 
+        Passionate about using ML and AI to boost hardware performance, especially in the development of ML accelerators. 
+        Proven track record of leading research that advances hardware design for improved security and efficiency. 
+        Skilled in interdisciplinary collaboration to address complex challenges in hardware security and energy optimization.
+        
 
 education:
   title: Education
@@ -68,7 +69,8 @@ education:
       university: Massachusetts Institute of Technology (MIT)
       time: Expected 2024
       details: |
-        Focused on the development of energy-efficient hardware architectures for enhanced secure communication systems. Thesis explores innovative design and optimization strategies for secure, reliable communication in IoT and beyond, under the guidance of Prof. Muriel Médard.
+        Focused on the development of energy-efficient hardware architectures for enhanced secure communication systems. 
+        Thesis explores innovative design and optimization strategies for secure, reliable communication in IoT and beyond, under the guidance of Prof. Muriel Médard.
         - Thesis Title: Energy-Efficient Hardware Architectures for Enhanced Secure Communication Systems
         - Advisor: Prof. Muriel Médard
         - Minor: Machine Learning & Artificial Intelligence
@@ -78,7 +80,8 @@ education:
       university: Massachusetts Institute of Technology (MIT)
       time: 2018 - 2021
       details: |
-        Master's thesis focused on addressing physical layer security challenges in wireless communication through the innovative use of Orbital Angular Momentum (OAM) waves, under the guidance of Prof. Anantha P. Chandrakasan and Prof. Rabia T. Yazicigil.
+        Master's thesis focused on addressing physical layer security challenges in wireless communication through the innovative use of Orbital Angular Momentum (OAM) waves, 
+        under the guidance of Prof. Anantha P. Chandrakasan and Prof. Rabia T. Yazicigil.
         - Thesis Title: Physical-Security for Wireless with Orbital Angular Momentum Wave
         - Advisor: Prof. Anantha P. Chandrakasan, Prof. Rabia T. Yazicigil (Boston University)
 #       - Contributions: Pioneered research on leveraging OAM waves for enhancing physical-layer security in wireless communication systems. This work has implications for secure data transmission and defense against eavesdropping and signal tampering.
@@ -87,7 +90,7 @@ education:
       university: Korea Advanced Institute of Science and Technology (KAIST)
       time: 2018
       details: |
-        Graduated Summa Cum Laude with a focus on electrical engineering. Specialized in digital circuit design, contributing to a strong foundation in hardware engineering and security.
+        Excelled in electrical engineering with a specialization in digital circuit design, laying a solid foundation in hardware engineering.
         - GPA: Overall 4.09/4.3, Major 4.23/4.3
         - Distinction: Summa Cum Laude
 
@@ -100,8 +103,8 @@ experiences:
       company: Massachusetts Institute of Technology
       details: |
         As a Graduate Researcher at MIT, I have dedicated my research to advancing the field of hardware engineering, 
-        with a particular focus on digital circuits and hardware security for communication systems. 
-        My work involves developing innovative solutions to enhance the efficiency and security of hardware, 
+        with a particular focus on digital circuits and energy-efficient hardware for security and reliable communication systems. 
+        My work involves developing innovative solutions to enhance the efficiency and security of hardware. 
         This has been made possible through a deep dive into digital circuit design and analytical methods. 
         Over the years, I have contributed to several pioneering projects and published papers that reflect my commitment to pushing the boundaries of technology and knowledge in my field.
     
@@ -109,19 +112,21 @@ experiences:
 projects:
   title: Projects
   intro: >
-    Below are highlights of my key projects that showcase my expertise in digital circuit design, hardware security, and the integration of machine learning and AI for innovative solutions in secure communication systems. These projects reflect my commitment to advancing the field of electrical engineering and my ability to tackle complex challenges with novel approaches.
+    Below are highlights of my key projects that showcase my expertise in digital circuit design, hardware security, and the development of energy-efficient, secure communication systems.
+    These projects reflect my commitment to advancing the field of electrical engineering and my ability to tackle complex challenges with novel approaches.
   assignments:
     - title: Hardware Implementation of AES as Error Correcting Code for IoT Systems
       link: "#"
       tagline: "Pioneered a novel application of AES by integrating error correction into encryption padding bits, 
-      effectively merging security with error resilience. Utilizing the Guessing Random Additive Noise Decoder (GRAND) for joint decoding and decryption, 
+      effectively merging security with forward error correction. Utilizing the Guessing Random Additive Noise Decoder (GRAND) for joint decoding and decryption, 
       our approach significantly improves IoT communication reliability in noisy environments—achieving over 3 dB gain in Block Error Rate (BLER) with minimal power overhead. 
       This dual-functional method marks a strategic advancement in IoT system design, offering a seamless, 
       efficient solution for achieving both encryption and error correction without compromising on energy efficiency or system performance."
 
     - title: An Energy-Efficient Cryptosystem Architecture
       link: "https://arxiv.org/abs/2308.05063"
-      tagline: "Introduced CERMET, an innovative hardware architecture for energy-efficient cryptosystems, leveraging network coding for enhanced security and performance. 
+      tagline: "Introduced hardware implmentation of the Hybrid Universal Network-Coding Cryptosystem (HUNCC), an innovative architecture for energy-efficient cryptosystems, 
+      leveraging network coding for enhanced security and performance. 
       Demonstrated significant energy reductions and area optimization for AES-256 and ECC-based systems, 
       achieving groundbreaking efficiency with less than 1 pJ/bit for AES and remarkable area and energy savings for ECC, 
       setting new standards in secure and efficient cryptographic hardware design."
@@ -129,7 +134,7 @@ projects:
     - title: FPGA Integration of HUNCC with AES
       link: "#"
       tagline: "Implemented the integration of HUNCC with AES error correction on FPGA, enhancing secure and reliable communication while highlighting the system's flexibility in coding scheme selection. 
-      Demonstrated with a MATLAB GUI for clear end-to-end system visualization, this approach significantly boosts system reliability and maintains the efficiency standards set by CERMET in terms of energy and space usage."
+      Demonstrated with a MATLAB GUI for clear end-to-end system visualization, this approach significantly boosts system reliability and maintains the efficiency standards set by HUNCC in terms of energy and space usage."
       demo: "[Demo link]"
       demo_link: "https://drive.google.com/file/d/1AirNXH2J8O74vJmSgGPLbPLGJSnBaKl-/view"
 
@@ -149,7 +154,8 @@ projects:
 publications:
     title: Publications
     intro: |
-      Below is a list of my publications, showcasing my research contributions across various aspects of electrical engineering, hardware circuits, and hardware security in communication. These works highlight my commitment to advancing the field through innovative research and development.
+      Below is a list of my publications, showcasing my research contributions across various aspects of electrical engineering, hardware circuits, and hardware security in communication. 
+      These works highlight my commitment to advancing the field through innovative research and development.
     papers:
       - title: "Leveraging AES Padding: dBs for Nothing and FEC for Free in IoT Systems"
         link: "#"
@@ -207,6 +213,19 @@ skills_mine:
         link: "#"
         tagline: "Hardware Design Tools (Cadence, Synopsys), FPGA Tools (Xilinx Vivado)"
 
+
+
+certifications:
+      title: Leadership &amp; Service
+      list:
+        - name: MIT Korean Graduate Students Association
+          start: 2019
+          end: 2020
+          organization: Even Planning Team Member
+          credentialname: MIT
+          details: |
+            - Volunteered as an event planning member for MIT KGSA, coordinating key community events including a welcoming reception for new graduate students and the MIT-Harvard GALA.
+            - Organized regular coffee hours and other engagement activities, fostering connectivity and camaraderie among MIT's Korean graduate student community.
 
 #skills:
 #    title: Skills &amp; Proficiency
