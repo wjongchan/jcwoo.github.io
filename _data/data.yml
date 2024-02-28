@@ -70,7 +70,7 @@ education:
       details: |
         Focused on the development of energy-efficient hardware architectures for enhanced secure communication systems. Thesis explores innovative design and optimization strategies for secure, reliable communication in IoT and beyond, under the guidance of Muriel Médard.
         - Thesis Title: Energy-Efficient Hardware Architectures for Enhanced Secure Communication Systems
-        - advisor: Muriel Médard
+        - Advisor: Muriel Médard
         - Minor: Machine Learning & Artificial Intelligence
         - Achievements: Led groundbreaking research in hardware synthesis of AES for error correction, significantly enhancing IoT system reliability and efficiency. Developed the first hardware implementation of the Hybrid Universal Network-Coding Cryptosystem (HUNCC), achieving substantial reductions in energy consumption and circuit area.
         
@@ -80,7 +80,7 @@ education:
       details: |
         Master's thesis focused on addressing physical security challenges in wireless communication through the innovative use of Orbital Angular Momentum (OAM) waves, under the guidance of Anantha P. Chandrakasan and Rabia T. Yazicigil.
         - Thesis Title: Physical-Security for Wireless with Orbital Angular Momentum Wave
-        - advisor: Anantha P. Chandrakasan, Rabia T. Yazicigil (Boston University)
+        - Advisor: Anantha P. Chandrakasan, Rabia T. Yazicigil (Boston University)
         - Contributions: Pioneered research on leveraging OAM waves for enhancing physical-layer security in wireless communication systems. This work has implications for secure data transmission and defense against eavesdropping and signal tampering.
 
     - degree: B.S. in Electrical Engineering
@@ -95,9 +95,9 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Graduate Researcher
+        time: 2018 - Present
+        company: Massachusetts Institute of Technology
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -110,76 +110,14 @@ experiences:
           architecto beatae vitae dicta sunt explicabo.
             - Bullet point
             - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
 
-certifications:
-      title: Certifications
-      list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
 
 projects:
   title: Projects
   intro: >
     Below are highlights of my key projects that showcase my expertise in digital circuit design, hardware security, and the integration of machine learning and AI for innovative solutions in secure communication systems. These projects reflect my commitment to advancing the field of electrical engineering and my ability to tackle complex challenges with novel approaches.
   assignments:
-    - title: Dual-Functional AES for Enhanced IoT Security and Reliability
+    - title: Hardware Implementation of AES as Error Correcting Code for IoT Systems
       link: "#"
       tagline: "Pioneered a novel application of AES by integrating error correction into encryption padding bits, 
       effectively merging security with error resilience. Utilizing the Guessing Random Additive Noise Decoder (GRAND) for joint decoding and decryption, 
@@ -249,7 +187,7 @@ publications:
 
       - title: "A 0.31THz CMOS Uniform Circular Antenna Array Enabling Generation/Detection of Waves with Orbital-Angular Momentum"
         link: "https://ieeexplore.ieee.org/document/9490402"
-        authors:Muhammad Ibrahim Wasiq Khan, Jongchan Woo, Xiang Yi, Mohamed I. Ibrahim, Rabia Tugce Yazicigil, Anantha P. Chandrakasan, Ruonan Han
+        authors: Muhammad Ibrahim Wasiq Khan, Jongchan Woo, Xiang Yi, Mohamed I. Ibrahim, Rabia Tugce Yazicigil, Anantha P. Chandrakasan, Ruonan Han
         conference: "2021 IEEE Radio Frequency Integrated Circuits Symposium (RFIC), Atlanta, GA, USA, 2021"
 
       - title: "CompAcc: Efficient Hardware Realization for Processing Compressed Neural Networks Using Accumulator Arrays"
