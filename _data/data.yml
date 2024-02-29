@@ -138,6 +138,7 @@ projects:
       Demonstrated significant energy reductions and area optimization for AES-256 and ECC-based systems, 
       achieving groundbreaking efficiency with less than 1 pJ/bit for AES and remarkable area and energy savings for ECC, 
       setting new standards in secure and efficient cryptographic hardware design."
+      
       demo: "[Demo link]"
       demo_link: "https://drive.google.com/file/d/1AirNXH2J8O74vJmSgGPLbPLGJSnBaKl-/view"
       
@@ -148,6 +149,7 @@ projects:
       Developed Python scripts for seamless interfacing between FPGA and MATLAB, 
       enabling clear end-to-end system visualization through a MATLAB GUI. 
       This approach significantly boosts system reliability and upholds HUNCC's efficiency in energy and space usage."
+      
       demo: "[Demo link]"
       demo_link: "https://drive.google.com/file/d/1AirNXH2J8O74vJmSgGPLbPLGJSnBaKl-/view"
 
