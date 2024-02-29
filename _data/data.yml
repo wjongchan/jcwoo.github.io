@@ -116,7 +116,7 @@ projects:
     These projects reflect my commitment to advancing the field of electrical engineering and my ability to tackle complex challenges with novel approaches.
   assignments:
     - title: Hardware Implementation of AES as Error Correcting Code for IoT Systems
-      link: "#"
+      #link: "#"
       tagline: "Pioneered a novel application of AES by integrating error correction into encryption padding bits, 
       effectively merging security with forward error correction. Utilizing the Guessing Random Additive Noise Decoder (GRAND) for joint decoding and decryption, 
       our approach significantly improves IoT communication reliability in noisy environments—achieving over 3 dB gain in Block Error Rate (BLER) with minimal power overhead. 
@@ -132,20 +132,12 @@ projects:
       setting new standards in secure and efficient cryptographic hardware design."
 
     - title: FPGA Integration of HUNCC with AES
-      link: "#"
-      tagline: "Implemented the integration of HUNCC with AES error correction on FPGA, enhancing secure and reliable communication while highlighting the system's flexibility in coding scheme selection. 
-      Demonstrated with a MATLAB GUI for clear end-to-end system visualization, this approach significantly boosts system reliability and maintains the efficiency standards set by CERMET in terms of energy and space usage."
-      demo: "[Demo link]"
-      demo_link: "https://drive.google.com/file/d/1AirNXH2J8O74vJmSgGPLbPLGJSnBaKl-/view"
-
-    - title: FPGA Integration of HUNCC with AES
       #link: "#"
       tagline: "Implemented the integration of HUNCC with AES error correction on FPGA, 
       enhancing secure and reliable communication and showcasing system flexibility in coding scheme selection. 
       Developed Python scripts for seamless interfacing between FPGA and MATLAB, 
       enabling clear end-to-end system visualization through a MATLAB GUI. 
       This approach significantly boosts system reliability and upholds HUNCC's efficiency in energy and space usage."
-      
       demo: "[Demo link]"
       demo_link: "https://drive.google.com/file/d/1AirNXH2J8O74vJmSgGPLbPLGJSnBaKl-/view"
 
@@ -177,7 +169,7 @@ publications:
       These works highlight my commitment to advancing the field through innovative research and development.
     papers:
       - title: "Leveraging AES Padding: dBs for Nothing and FEC for Free in IoT Systems"
-        link: "#"
+        #link: "#"
         authors: Jongchan Woo, Vipindev Adat Vasudevan, Benjamin D. Kim, Rafael G. L. D’Oliveira, Alejandro Cohen, Thomas Stahlbuhk, Ken R. Duffy, Muriel Médard
         conference: "Submitted to IEEE Internet of Things Journal, 2024"
 
@@ -225,11 +217,11 @@ skills_mine:
     #  Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     contributions:
       - title: Programming Languages
-        link: "#"
+        #link: "#"
         tagline: "Verilog, System Verilog, Bluespec System Verilog (BSV), MATLAB, Python, C, C++"
 
       - title: Software
-        link: "#"
+        #link: "#"
         tagline: "Hardware Design Tools (Cadence, Synopsys), FPGA Tools (Xilinx Vivado)"
 
 
