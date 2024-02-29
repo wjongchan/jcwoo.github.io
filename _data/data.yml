@@ -150,6 +150,14 @@ projects:
       link: "https://ieeexplore.ieee.org/document/9690578"
       tagline: "Pioneered a unique one-way key exchanging protocol using orbital angular momentum (OAM) wave for heightened physical security in private-key cryptography; 
       led to the creation and FPGA-based testing of an AES algorithm-backed cryptographic processor."
+    
+    - title: AI Text Generation and Detection System
+      link: "#"
+      tagline: "From the '6.3952 AI, Decision Making, and Society' MIT course, 
+      this project reflects my interest in applying ML and AI to create advanced systems. 
+      It involved developing an AI model for text generation alongside a detection system to discern AI-generated content. 
+      This work underscores my capabilities in ML and AI, demonstrating my approach to enhancing digital content's integrity and reliability, 
+      aligned with the course's exploration of AI's societal impacts."
 
 publications:
     title: Publications
