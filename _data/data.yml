@@ -132,7 +132,7 @@ projects:
       setting new standards in secure and efficient cryptographic hardware design."
 
     - title: FPGA Integration of HUNCC with AES
-      link: "#"
+      #link: "#"
       tagline: "Implemented the integration of HUNCC with AES error correction on FPGA, 
       enhancing secure and reliable communication and showcasing system flexibility in coding scheme selection. 
       Developed Python scripts for seamless interfacing between FPGA and MATLAB, 
@@ -155,7 +155,7 @@ projects:
       led to the creation and FPGA-based testing of an AES algorithm-backed cryptographic processor."
     
     - title: AI Text Generation and Detection System
-      link: "#"
+      #link: "#"
       tagline: "From the '6.3952 AI, Decision Making, and Society' MIT course, 
       this project reflects my interest in applying ML and AI to create advanced systems. 
       It involved developing an AI model for text generation alongside a detection system to discern AI-generated content. 
