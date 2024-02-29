@@ -164,9 +164,9 @@ projects:
 
 publications:
     title: Publications
-    intro: |
-      Below is a list of my publications, showcasing my research contributions across various aspects of electrical engineering, hardware circuits, and hardware security in communication. 
-      These works highlight my commitment to advancing the field through innovative research and development.
+    #intro: |
+    #  Below is a list of my publications, showcasing my research contributions across various aspects of electrical engineering, hardware circuits, and hardware security in communication. 
+    #  These works highlight my commitment to advancing the field through innovative research and development.
     papers:
       - title: "Leveraging AES Padding: dBs for Nothing and FEC for Free in IoT Systems"
         #link: "#"
