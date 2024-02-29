@@ -133,8 +133,11 @@ projects:
 
     - title: FPGA Integration of HUNCC with AES
       link: "#"
-      tagline: "Implemented the integration of HUNCC with AES error correction on FPGA, enhancing secure and reliable communication while highlighting the system's flexibility in coding scheme selection. 
-      Demonstrated with a MATLAB GUI for clear end-to-end system visualization, this approach significantly boosts system reliability and maintains the efficiency standards set by HUNCC in terms of energy and space usage."
+      tagline: "Implemented the integration of HUNCC with AES error correction on FPGA, 
+      enhancing secure and reliable communication and showcasing system flexibility in coding scheme selection. 
+      Developed Python scripts for seamless interfacing between FPGA and MATLAB, 
+      enabling clear end-to-end system visualization through a MATLAB GUI. 
+      This approach significantly boosts system reliability and upholds HUNCC's efficiency in energy and space usage."
       demo: "[Demo link]"
       demo_link: "https://drive.google.com/file/d/1AirNXH2J8O74vJmSgGPLbPLGJSnBaKl-/view"
 
