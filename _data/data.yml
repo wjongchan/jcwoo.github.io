@@ -138,7 +138,7 @@ projects:
       Developed Python scripts for seamless interfacing between FPGA and MATLAB, 
       enabling clear end-to-end system visualization through a MATLAB GUI. 
       This approach significantly boosts system reliability and upholds HUNCC's efficiency in energy and space usage."
-      demo: "[Demo link]"
+      demo: "- [Demo link]"
       demo_link: "https://drive.google.com/file/d/1AirNXH2J8O74vJmSgGPLbPLGJSnBaKl-/view"
 
     - title: Security Analysis of OAM Modulation in THz Systems
