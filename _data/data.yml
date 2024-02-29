@@ -131,17 +131,13 @@ projects:
       achieving groundbreaking efficiency with less than 1 pJ/bit for AES and remarkable area and energy savings for ECC, 
       setting new standards in secure and efficient cryptographic hardware design."
 
-    - title: An Energy-Efficient Cryptosystem Architecture
-      link: "https://arxiv.org/abs/2308.05063"
-      tagline: "Introduced hardware implmentation of the Hybrid Universal Network-Coding Cryptosystem (HUNCC), an innovative architecture for energy-efficient cryptosystems, 
-      leveraging network coding for enhanced security and performance. 
-      Demonstrated significant energy reductions and area optimization for AES-256 and ECC-based systems, 
-      achieving groundbreaking efficiency with less than 1 pJ/bit for AES and remarkable area and energy savings for ECC, 
-      setting new standards in secure and efficient cryptographic hardware design."
-      
+    - title: FPGA Integration of HUNCC with AES
+      link: "#"
+      tagline: "Implemented the integration of HUNCC with AES error correction on FPGA, enhancing secure and reliable communication while highlighting the system's flexibility in coding scheme selection. 
+      Demonstrated with a MATLAB GUI for clear end-to-end system visualization, this approach significantly boosts system reliability and maintains the efficiency standards set by CERMET in terms of energy and space usage."
       demo: "[Demo link]"
       demo_link: "https://drive.google.com/file/d/1AirNXH2J8O74vJmSgGPLbPLGJSnBaKl-/view"
-      
+
     - title: FPGA Integration of HUNCC with AES
       #link: "#"
       tagline: "Implemented the integration of HUNCC with AES error correction on FPGA, 
