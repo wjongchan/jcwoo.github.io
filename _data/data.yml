@@ -9,13 +9,13 @@ sidebar:
 
     # Profile information
     name: Jongchan Woo
-    tagline: ASIC Design Engineer
+    tagline: Micro-Architecture ASIC Design Engineer
     avatar: photo_new_resize.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: jc_woo@mit.edu
+    email: wjongchan93@gmail.com
     phone: 413 404 7495
-    timezone: Eastern Standard Time (EST)
+    timezone: Pacific Time (PT)
     citizenship: Korean
     google_scholar: Publication
     website: wjongchan.github.io #do not add http://
@@ -55,19 +55,15 @@ sidebar:
 career-profile:
   title: Profile
   summary: |
-        Ph.D. candidate at MIT focusing on digital circuit design for energy-efficient hardware and secure communication systems. 
-        Expert in hardware architecture and system optimization, grounded in a comprehensive understanding of digital circuits. 
-        Passionate about using ML and AI to boost hardware performance, especially in the development of ML accelerators. 
-        Proven track record of leading research that advances hardware design for improved security and efficiency. 
-        Skilled in interdisciplinary collaboration to address complex challenges in hardware security and energy optimization.
-        
+Silicon Architect with a strong foundation in GPU micro-architecture, digital circuit design, and secure communication systems. Experienced in hardware optimization for advanced performance and efficiency, with a focus on cutting-edge GPU features and innovative silicon engineering. Proven track record in academic research and industry contributions, pushing the boundaries of hardware security and scalability.
+      
 
 education:
   title: Education
   info:
     - degree: Ph.D. Candidate in Electrical Engineering & Computer Science
       university: Massachusetts Institute of Technology (MIT)
-      time: Expected 2024
+      time: 2021 - 2024
       details: |
         Focused on the development of energy-efficient hardware architectures for enhanced secure communication systems. 
         Thesis explores innovative design and optimization strategies for secure, reliable communication in IoT and beyond, under the guidance of Prof. Muriel Médard.
@@ -98,23 +94,36 @@ education:
 experiences:
   title: Experiences
   info:
-    - role: Graduate Researcher
-      time: 2018 - Present
-      company: Massachusetts Institute of Technology
+    - role: ASIC Design Engineer, GPU Team
+      time: June 2024 - Present
+      company: Qualcomm Technologies, Inc., San Diego, CA
       details: |
-        As a Graduate Researcher at MIT, I have dedicated my research to advancing the field of hardware engineering, 
-        with a particular focus on digital circuits and energy-efficient hardware for security and reliable communication systems. 
-        My work involves developing innovative solutions to enhance the efficiency and security of hardware. 
-        This has been made possible through a deep dive into digital circuit design and analytical methods. 
-        Over the years, I have contributed to several pioneering projects and published papers that reflect my commitment to pushing the boundaries of technology and knowledge in my field.
-    
+        - Designed micro-architecture for shader processor ray tracing unit (RTU) features, enabling advanced efficiency and scalability.
+        - Developed RTL for optimized hardware designs, achieving enhanced performance through higher operating frequencies.
+        - Proposed innovative micro-architecture enhancements to boost GPU shader processor capabilities.
+        - Conducted rigorous verification and debugging throughout design cycles to ensure robust implementation.
+        
+    - role: Graduate Researcher
+      time: Aug 2018 - May 2024
+      company: Massachusetts Institute of Technology, Cambridge, MA
+      details: |
+        - Implemented AES for error correction in IoT, boosting reliability by 3 dB in BLER with minimal power overhead.
+        - Designed the Hybrid Universal Network-Coding Cryptosystem (HUNCC), achieving 15× energy savings per bit.
+        - Developed secure communication systems for THz frequencies using OAM modulation.    
 
 projects:
   title: Projects
   intro: >
-    Below are highlights of my key projects that showcase my expertise in digital circuit design, hardware security, and the development of energy-efficient, secure communication systems.
-    These projects reflect my commitment to advancing the field of electrical engineering and my ability to tackle complex challenges with novel approaches.
+    The following projects highlight my expertise in GPU micro-architecture, digital circuit design, hardware security, and energy-efficient communication systems. 
+    These works underscore my ability to address complex engineering challenges with innovative and scalable solutions.
+
   assignments:
+    - title: Ray Tracing Optimization for GPU Shader Processors
+      #link: "#"
+      tagline: "Led the design and implementation of RTU micro-architecture features to enhance ray tracing capabilities in Adreno GPUs. 
+      Achieved improvements in graphics performance through optimized pipeline integration and efficient shader processor design. 
+      Contributed to feature enablement that supports advanced visual effects, solidifying Adreno GPUs' competitiveness in high-performance graphics."
+
     - title: Hardware Implementation of AES as Error Correcting Code for IoT Systems
       #link: "#"
       tagline: "Pioneered a novel application of AES by integrating error correction into encryption padding bits, 
@@ -137,7 +146,7 @@ projects:
       enhancing secure and reliable communication and showcasing system flexibility in coding scheme selection. 
       Developed Python scripts for seamless interfacing between FPGA and MATLAB, 
       enabling clear end-to-end system visualization through a MATLAB GUI. 
-      This approach significantly boosts system reliability and upholds HUNCC's efficiency in energy and space usage."
+      This approach significantly boosts system reliability and upholds HUNCC's efficiency in energy and area."
       demo: "[Demo link]"
       demo_link: "https://drive.google.com/file/d/1AirNXH2J8O74vJmSgGPLbPLGJSnBaKl-/view"
 
@@ -216,13 +225,17 @@ skills_mine:
     #  section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     #  Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     contributions:
+      - title: Hardware Design
+        #link: "#"
+        tagline: "ASIC design, GPU micro-architecture, RTL development"
+
+      - title: Software Tools
+        #link: "#"
+        tagline: "Cadence, Synopsys, Xilinx Vivado"
+
       - title: Programming Languages
         #link: "#"
-        tagline: "Verilog, System Verilog, Bluespec System Verilog (BSV), MATLAB, Python, C, C++"
-
-      - title: Software
-        #link: "#"
-        tagline: "Hardware Design Tools (Cadence, Synopsys), FPGA Tools (Xilinx Vivado)"
+        tagline: "Verilog, System Verilog, MATLAB, Python, C++"
 
 
 
